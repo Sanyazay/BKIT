@@ -15,12 +15,14 @@ def field(items, *args):
                         a[h]=i[h]
             yield a
 
-goods = [                
-        {'title': 'ковер', 'price': 2000, 'color': 'green'}, 
-        {'title': 'Ковер', 'price': 2000, 'color': 'green'},
-        {'title': 'Диван для отдыха', 'color': 'black'},
-        {'title': 'Диван для отдыха', 'color': 'black'},     
-    ]    
-
+if __name__ == "__main__":
+    goods = [
+    {'title': 'Ковер', 'price': 2000, 'color': 'green'},
+    {'title': 'Диван для отдыха', 'price': 5300, 'color': 'black'}
+    ]
+    for i in field(goods,"title"):
+        print(i)
+    for i in field(goods,"title","price"):
+        print(i)
 
                       

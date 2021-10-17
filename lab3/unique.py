@@ -25,7 +25,7 @@ class unique(object):
         else:
             for i in self.items:
                 try:
-                    print(i)
+                    
                     if(i.upper() not in self.uniq):
                         self.uniq.add(i.upper())
                         return i
@@ -46,6 +46,7 @@ if __name__ == "__main__":
     ]          
             
     c=True
-    g=[1,2,3,4,5,"D","d","a",1.5,"A"]
+    
     a=unique(field.field(goods,"title"),c)
-    a
+    for i in a:
+        print(i)

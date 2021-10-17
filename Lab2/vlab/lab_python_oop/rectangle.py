@@ -1,7 +1,3 @@
-
-
-
-
 from lab_python_oop.figure_color import FigColor
 from lab_python_oop.geometric_figure import GeoFigure
 
@@ -15,7 +11,7 @@ class Rectangle(GeoFigure):
         self.length = length
         self.width = width
 
-    #@property
+    
 
     def find_area(self):
         return self.length*self.width
