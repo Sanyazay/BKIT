@@ -1,0 +1,26 @@
+
+def field(items, *args):
+    assert len(args) > 0
+    if len(args) == 1:
+        for i in items:
+            for j in i: # i - один словарь из списка j - ключ от словаря 
+                    if j==args[0]:
+                        yield i[j]
+    else:
+        for i in items:
+            a={}
+            for j in i:
+                for h in args:
+                    if(j==h):
+                        a[h]=i[h]
+            yield a
+
+goods = [                
+        {'title': 'ковер', 'price': 2000, 'color': 'green'}, 
+        {'title': 'Ковер', 'price': 2000, 'color': 'green'},
+        {'title': 'Диван для отдыха', 'color': 'black'},
+        {'title': 'Диван для отдыха', 'color': 'black'},     
+    ]    
+
+
+                      
