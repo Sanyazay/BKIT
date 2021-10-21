@@ -15,3 +15,9 @@
 [Код](https://github.com/Sanyazay/BKIT/tree/master/lab3)
 
 [Отчет](https://github.com/Sanyazay/BKIT/blob/master/lab3/lab3.pdf)
+
+# РК1
+## Функциональные возможности языка Python.
+[Код](https://github.com/Sanyazay/BKIT/blob/master/RK-1_BKIT/rk1.py)
+
+[Отчет](https://github.com/Sanyazay/BKIT/blob/master/RK-1_BKIT/%D0%A0%D0%9A1.pdf)
