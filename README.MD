@@ -16,6 +16,24 @@
 
 [Отчет](https://github.com/Sanyazay/BKIT/blob/master/lab3/lab3.pdf)
 
+# LAB4
+## Шаблоны проектирования и модульное тестирование в Python.
+[Код](https://github.com/Sanyazay/BKIT/tree/master/Lab4)
+
+[Отчет](https://github.com/Sanyazay/BKIT/blob/master/Lab4/lab4_BKIT.pdf)
+
+# LAB5
+## Разработка простого бота для Telegram с использованием языка Python.
+[Код](https://github.com/Sanyazay/BKIT/tree/master/Lab5)
+
+[Отчет](https://github.com/Sanyazay/BKIT/blob/master/Lab5/lab5_BKIT.pdf)
+
+# LAB6
+## Разработка бота на основе конечного автомата для Telegram с использованием языка Python.
+[Код](https://github.com/Sanyazay/BKIT/tree/master/Lab6)
+
+[Отчет](https://github.com/Sanyazay/BKIT/blob/master/Lab6/lab6_BKIT.pdf)
+
 # РК1
 ## Функциональные возможности языка Python.
 [Код](https://github.com/Sanyazay/BKIT/blob/master/RK-1_BKIT/rk1.py)
