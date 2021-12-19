@@ -34,8 +34,20 @@
 
 [Отчет](https://github.com/Sanyazay/BKIT/blob/master/Lab6/lab6_BKIT.pdf)
 
+# DZ
+## Изучение возможностей создания ботов в Telegram и их тестирования
+[Код](https://github.com/Sanyazay/BKIT/tree/master/DZ)
+
+[Отчет](https://github.com/Sanyazay/BKIT/blob/master/DZ/DZ_BKIT.pdf)
+
 # РК1
 ## Функциональные возможности языка Python.
 [Код](https://github.com/Sanyazay/BKIT/blob/master/RK-1_BKIT/rk1.py)
 
 [Отчет](https://github.com/Sanyazay/BKIT/blob/master/RK-1_BKIT/%D0%A0%D0%9A1.pdf)
+
+# РК2
+## Разработка тестов на языке Python
+[Код](https://github.com/Sanyazay/BKIT/tree/master/RK-2_BKIT)
+
+[Отчет](https://github.com/Sanyazay/BKIT/blob/master/RK-2_BKIT/RK2_BKIT.pdf)
